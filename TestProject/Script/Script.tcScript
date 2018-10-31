@@ -4,6 +4,9 @@
 		<child name="Unit1" key="{274747D8-5390-4746-B186-D92ECC7AE1EB}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
 			<data path="Unit1.js" />
 		</child>
+		<child name="UI_TestScenario_16" key="{9B407346-BC5A-4868-8888-7A8B847DEFB1}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="UI_TestScenario_16.js" />
+		</child>
 	</children>
 	<folders />
 </Root>

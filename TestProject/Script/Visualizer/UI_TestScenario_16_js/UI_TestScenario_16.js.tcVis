@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{9B407346-BC5A-4868-8888-7A8B847DEFB1}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="71" kind="0" dateTime="43353.0426825579" objectName="Aliases.browser.pageRoboticsBpoForSmartWork.formLogin.passwordboxPswrd" objectLeft="588" objectTop="522" objectRight="948" objectBottom="550" clickPointX="721" clickPointY="537" imageFileName="tcvi159994250198444.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="76" kind="0" dateTime="43353.0426868634" objectName="Aliases.browser.pageRoboticsBpoForSmartWork.formLogin.passwordboxPswrd" objectLeft="588" objectTop="522" objectRight="948" objectBottom="550" clickPointX="-1" clickPointY="-1" imageFileName="tcvi159996078198446.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>
