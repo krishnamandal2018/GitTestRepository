@@ -23,7 +23,7 @@ function OperatorLoginScript()
         Sys.Browser("chrome").Page("https://ocrtest-1673629386.ap-northeast-1.elb.amazonaws.com/App_GeneralFunction/FS00004/FS00004002.aspx?sid=ow&svc=oow&lang=ja-JP").Panel("bd_inner").Panel("build_menu_page").Form("fm").Panel("phFormArea_headerArea").Panel(3).Panel("phFormArea_phContentsTabArea_contentsMenu_contentsMenu").Panel(0).Link("phFormArea_phContentsTabArea_contentsMenu_submenuMenu_Item1003").Click();
         // Aliases.browser.Page("https://ocrtest-1673629386.ap-northeast-1.elb.amazonaws.com/App_GeneralFunction/FS00001/FS00001001.aspx?sid=ow&svc=oow&lang=ja-JP").Panel("bd_inner").Panel("build_menu_page").Form("fm").Panel("phFormArea_mainArea").Panel("storageSelectArea").Panel("FieldsetTab").TextNode(1).Click();
         Delay(4000)
-                          
+         //if condition                  
         if(v==2)
         {
         if(aqObject.CheckProperty(Sys.Browser("chrome").Page("https://ocrtest-1673629386.ap-northeast-1.elb.amazonaws.com/App_GeneralFunction/FS00001/FS00001001.aspx?sid=ow&svc=oow&lang=ja-JP").Panel("bd_inner").Panel("build_menu_page").Form("fm").Panel("phFormArea_headerArea").Panel(0).Panel(1).Link(0).TextNode("phFormArea_phHeaderMenuArea_headerMenu_ltrUserId"), "contentText", cmpEqual,userId))
